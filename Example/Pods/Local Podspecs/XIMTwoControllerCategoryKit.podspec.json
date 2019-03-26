@@ -1,0 +1,27 @@
+{
+  "name": "XIMTwoControllerCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of XIMTwoControllerCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xim9160/XIMTwoControllerCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xim9160": "281016974@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/xim9160/XIMTwoControllerCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XIMTwoControllerCategoryKit/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
